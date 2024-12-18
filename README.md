@@ -1,3 +1,4 @@
 Hello, my name is Ali. I'm a software engineer based out of Seattle. 
 
-I maintain a [blog](https://www.aliraza.gg).
+- [blog](https://www.aliraza.gg).
+- [stack overflow](https://stackoverflow.com/users/8122970/ali-raza)
