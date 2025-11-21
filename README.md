@@ -1,7 +1,4 @@
-Hello, my name is Ali. I'm a software engineer based out of Seattle. 
-
-- [blog](https://www.aliraza.gg)
-- [stack overflow](https://stackoverflow.com/users/8122970/ali-raza)
+https://www.aliraza.gg
 
 ## Projects
 - [macOS Config](https://github.com/aaraza/macOS-config): Automates development environment setup via Ansible while capturing my macOS configuration as code.
